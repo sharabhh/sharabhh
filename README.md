@@ -17,3 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharabhh&show_icons=true&locale=en&layout=compact" alt="sharabhh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharabhh&show_icons=true&locale=en" alt="sharabhh" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
