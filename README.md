@@ -9,11 +9,11 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python,c++,was,css,nodejs,prisma,redux,sass,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python,c++,was,css,nodejs,prisma,redux,sass)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,angular,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,fastapi,react,nextjs,tailwindcss)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
