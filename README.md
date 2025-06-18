@@ -17,8 +17,8 @@
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongo,redis)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,postman,vite,vercel,notion)](https://skillicons.dev)
