@@ -13,7 +13,7 @@
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=react,express,fastapi,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,fastapi,nextjs,redux,tailwindcss)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
@@ -21,4 +21,4 @@
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,postman,vite,vercel,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,aws,gcp,babel,bun,cloudflare,docker,figma,linux,sentry,ubuntu,vim,postman,vite,vercel,notion)](https://skillicons.dev)
